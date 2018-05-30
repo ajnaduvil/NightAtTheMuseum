@@ -1,4 +1,4 @@
-# NightAtTheMuseum
+# Night At The Museum
 VR Developer Nanodegree project by Albin Jose
 
 # About the project
